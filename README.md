@@ -1,4 +1,4 @@
-# Login Example with Spring & Hibernate
+## Login Example with Spring & Hibernate
 
 This project is based on the login & logout functionality with Spring Security.
 
